@@ -1,7 +1,7 @@
 # USWA Studio — Premium Liquid 4K Motion Backgrounds
 
 <p align="center">
-  <img src="thumbnails/USWA_Liquid_Cyber_4K_UHD.jpg" alt="USWA Studio Banner" width="100%" />
+  <img src="thumbnails/Cover.jpeg" alt="USWA Studio Banner" width="100%" />
 </p>
 
 <h3 align="center">Collection Vol. 1 — 12 Abstract Liquid Motion Backgrounds</h3>
